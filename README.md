@@ -68,3 +68,8 @@ The database consists of **4 tables**:
 - Explored aggregate functions, subqueries, `GROUP BY`, `HAVING`.  
 - Gained insights into customer behavior and product performance  
 - Learned to derive business insights using raw sales data
+
+
+## Data Source
+The dataset used in this project was sourced from [https://github.com/najirh/Retail-Sales-Analysis-SQL-Project--P1/blob/main/SQL%20-%20Retail%20Sales%20Analysis_utf%20.csv] 
+This project is for learning purposes. All SQL queries and analysis were created by me.
